@@ -1,0 +1,506 @@
+[
+    {
+        "Code": "AB",
+        "Name": "Aberdeen"
+    },
+    {
+        "Code": "AL",
+        "Name": "St. Albans"
+    },
+    {
+        "Code": "B",
+        "Name": "Birmingham"
+    },
+    {
+        "Code": "BA",
+        "Name": "Bath"
+    },
+    {
+        "Code": "BB",
+        "Name": "Blackburn"
+    },
+    {
+        "Code": "BD",
+        "Name": "Bradford"
+    },
+    {
+        "Code": "BF",
+        "Name": "British Forces"
+    },
+    {
+        "Code": "BH",
+        "Name": "Bournemouth"
+    },
+    {
+        "Code": "BL",
+        "Name": "Bolton"
+    },
+    {
+        "Code": "BN",
+        "Name": "Brighton"
+    },
+    {
+        "Code": "BR",
+        "Name": "Bromley"
+    },
+    {
+        "Code": "BS",
+        "Name": "Bristol"
+    },
+    {
+        "Code": "BT",
+        "Name": "Belfast"
+    },
+    {
+        "Code": "CA",
+        "Name": "Carlisle"
+    },
+    {
+        "Code": "CB",
+        "Name": "Cambridge"
+    },
+    {
+        "Code": "CF",
+        "Name": "Cardiff"
+    },
+    {
+        "Code": "CH",
+        "Name": "Chester"
+    },
+    {
+        "Code": "CM",
+        "Name": "Chelmsford"
+    },
+    {
+        "Code": "CO",
+        "Name": "Colchester"
+    },
+    {
+        "Code": "CR",
+        "Name": "Croydon"
+    },
+    {
+        "Code": "CT",
+        "Name": "Canterbury"
+    },
+    {
+        "Code": "CV",
+        "Name": "Coventry"
+    },
+    {
+        "Code": "CW",
+        "Name": "Crewe"
+    },
+    {
+        "Code": "DA",
+        "Name": "Dartford"
+    },
+    {
+        "Code": "DD",
+        "Name": "Dundee"
+    },
+    {
+        "Code": "DE",
+        "Name": "Derby"
+    },
+    {
+        "Code": "DG",
+        "Name": "Dumfries"
+    },
+    {
+        "Code": "DH",
+        "Name": "Durham"
+    },
+    {
+        "Code": "DL",
+        "Name": "Darlington"
+    },
+    {
+        "Code": "DN",
+        "Name": "Doncaster"
+    },
+    {
+        "Code": "DT",
+        "Name": "Dorchester"
+    },
+    {
+        "Code": "DY",
+        "Name": "Dudley"
+    },
+    {
+        "Code": "E",
+        "Name": "London"
+    },
+    {
+        "Code": "EC",
+        "Name": "London"
+    },
+    {
+        "Code": "EH",
+        "Name": "Edinburgh"
+    },
+    {
+        "Code": "EN",
+        "Name": "Enfield"
+    },
+    {
+        "Code": "EX",
+        "Name": "Exeter"
+    },
+    {
+        "Code": "FK",
+        "Name": "Falkirk"
+    },
+    {
+        "Code": "FY",
+        "Name": "Blackpool"
+    },
+    {
+        "Code": "G",
+        "Name": "Glasgow"
+    },
+    {
+        "Code": "GL",
+        "Name": "Gloucester"
+    },
+    {
+        "Code": "GU",
+        "Name": "Guilford"
+    },
+    {
+        "Code": "GY",
+        "Name": "Guernsey"
+    },
+    {
+        "Code": "HA",
+        "Name": "Harrow"
+    },
+    {
+        "Code": "HD",
+        "Name": "Huddersfield"
+    },
+    {
+        "Code": "HG",
+        "Name": "Harrogate"
+    },
+    {
+        "Code": "HP",
+        "Name": "Hemel"
+    },
+    {
+        "Code": "HR",
+        "Name": "Hereford"
+    },
+    {
+        "Code": "HS",
+        "Name": "ComhairlenanEileanSiar"
+    },
+    {
+        "Code": "HU",
+        "Name": "Hull"
+    },
+    {
+        "Code": "HX",
+        "Name": "Halifax"
+    },
+    {
+        "Code": "IG",
+        "Name": "Ilford"
+    },
+    {
+        "Code": "IM",
+        "Name": "Isle of Man"
+    },
+    {
+        "Code": "IP",
+        "Name": "Ipswich"
+    },
+    {
+        "Code": "IV",
+        "Name": "Inverness"
+    },
+    {
+        "Code": "JE",
+        "Name": "Jersey"
+    },
+    {
+        "Code": "KA",
+        "Name": "Kilmarnock"
+    },
+    {
+        "Code": "KT",
+        "Name": "Kingston"
+    },
+    {
+        "Code": "KW",
+        "Name": "Kirkwall"
+    },
+    {
+        "Code": "KY",
+        "Name": "Kirkaldy"
+    },
+    {
+        "Code": "L",
+        "Name": "Liverpool"
+    },
+    {
+        "Code": "LA",
+        "Name": "Lancaster"
+    },
+    {
+        "Code": "LD",
+        "Name": "Llandrindod"
+    },
+    {
+        "Code": "LE",
+        "Name": "Leicester"
+    },
+    {
+        "Code": "LL",
+        "Name": "Llandudno"
+    },
+    {
+        "Code": "LN",
+        "Name": "Lincoln"
+    },
+    {
+        "Code": "LS",
+        "Name": "Leeds"
+    },
+    {
+        "Code": "LU",
+        "Name": "Luton"
+    },
+    {
+        "Code": "M",
+        "Name": "Manchester"
+    },
+    {
+        "Code": "ME",
+        "Name": "Medway"
+    },
+    {
+        "Code": "MK",
+        "Name": "MiltonKeynes"
+    },
+    {
+        "Code": "ML",
+        "Name": "Motherwell"
+    },
+    {
+        "Code": "N",
+        "Name": "London"
+    },
+    {
+        "Code": "NE",
+        "Name": "Newcastle"
+    },
+    {
+        "Code": "NG",
+        "Name": "Nottingham"
+    },
+    {
+        "Code": "NN",
+        "Name": "Northampton"
+    },
+    {
+        "Code": "NP",
+        "Name": "Newport"
+    },
+    {
+        "Code": "NR",
+        "Name": "Norwich"
+    },
+    {
+        "Code": "NW",
+        "Name": "London"
+    },
+    {
+        "Code": "OL",
+        "Name": "Oldham"
+    },
+    {
+        "Code": "OX",
+        "Name": "Oxford"
+    },
+    {
+        "Code": "PA",
+        "Name": "Paisley"
+    },
+    {
+        "Code": "PE",
+        "Name": "Peterborough"
+    },
+    {
+        "Code": "PH",
+        "Name": "Perth"
+    },
+    {
+        "Code": "PL",
+        "Name": "Plymouth"
+    },
+    {
+        "Code": "PO",
+        "Name": "Portsmouth"
+    },
+    {
+        "Code": "PR",
+        "Name": "Preston"
+    },
+    {
+        "Code": "QC",
+        "Name": "Awarding Bodies"
+    },
+    {
+        "Code": "RG",
+        "Name": "Reading"
+    },
+    {
+        "Code": "RH",
+        "Name": "Redhill"
+    },
+    {
+        "Code": "RM",
+        "Name": "Romford"
+    },
+    {
+        "Code": "S",
+        "Name": "Sheffield"
+    },
+    {
+        "Code": "SA",
+        "Name": "Swansea"
+    },
+    {
+        "Code": "SE",
+        "Name": "London"
+    },
+    {
+        "Code": "SG",
+        "Name": "Stevenage"
+    },
+    {
+        "Code": "SK",
+        "Name": "Stockport"
+    },
+    {
+        "Code": "SL",
+        "Name": "Slough"
+    },
+    {
+        "Code": "SM",
+        "Name": "Sutton"
+    },
+    {
+        "Code": "SN",
+        "Name": "Swindon"
+    },
+    {
+        "Code": "SO",
+        "Name": "Southampton"
+    },
+    {
+        "Code": "SP",
+        "Name": "Salisbury"
+    },
+    {
+        "Code": "SR",
+        "Name": "Sunderland"
+    },
+    {
+        "Code": "SS",
+        "Name": "Southend"
+    },
+    {
+        "Code": "ST",
+        "Name": "Stoke on Trent"
+    },
+    {
+        "Code": "SW",
+        "Name": "London"
+    },
+    {
+        "Code": "SY",
+        "Name": "Shrewsbury"
+    },
+    {
+        "Code": "TA",
+        "Name": "Taunton"
+    },
+    {
+        "Code": "TD",
+        "Name": "Galashiels"
+    },
+    {
+        "Code": "TF",
+        "Name": "Telford"
+    },
+    {
+        "Code": "TN",
+        "Name": "Tonbridge"
+    },
+    {
+        "Code": "TQ",
+        "Name": "Torquay"
+    },
+    {
+        "Code": "TR",
+        "Name": "Truro"
+    },
+    {
+        "Code": "TS",
+        "Name": "Cleveland"
+    },
+    {
+        "Code": "TW",
+        "Name": "Twickenham"
+    },
+    {
+        "Code": "UB",
+        "Name": "Southall"
+    },
+    {
+        "Code": "W",
+        "Name": "London"
+    },
+    {
+        "Code": "WA",
+        "Name": "Warrington"
+    },
+    {
+        "Code": "WC",
+        "Name": "London"
+    },
+    {
+        "Code": "WD",
+        "Name": "Watford"
+    },
+    {
+        "Code": "WF",
+        "Name": "Wakefield"
+    },
+    {
+        "Code": "WN",
+        "Name": "Wigan"
+    },
+    {
+        "Code": "WR",
+        "Name": "Worcester"
+    },
+    {
+        "Code": "WS",
+        "Name": "Walsall"
+    },
+    {
+        "Code": "WV",
+        "Name": "Wolverhampton"
+    },
+    {
+        "Code": "YO",
+        "Name": "York"
+    },
+    {
+        "Code": "ZE",
+        "Name": "Shetland"
+    }
+]
